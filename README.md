@@ -29,15 +29,14 @@
 	```
 
 ### Running Tests
-
-	```
-	$ cucumber
-	```
-or
-
-    ```
-	$ bundle exec cucumber
-	```
+To running the test program simply type in your terminal in the root project directory 
+```
+$ cucumber
+``` 
+or 
+```
+$ bundle exec cucumber
+```
 
 ### Resources
 ##### [Sauce Labs Documentation](https://wiki.saucelabs.com/)
