@@ -33,7 +33,8 @@
 	```
 	$ cucumber
 	```
-    or
+or
+
     ```
 	$ bundle exec cucumber
 	```
