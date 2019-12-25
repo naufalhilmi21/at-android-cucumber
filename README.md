@@ -2,7 +2,6 @@
 
 ## Environment Setup
 
-
 1. Ruby
     * Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
     * Or Install Ruby with [Homebrew](http://brew.sh/)
