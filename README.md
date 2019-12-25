@@ -1,6 +1,6 @@
-## Ruby-Cucumber-Appium-Android
+# Ruby-Cucumber-Appium-Android
 
-### Environment Setup
+## Environment Setup
 
 
 1. Ruby
@@ -28,7 +28,7 @@
 	$ bundle install
 	```
 
-### Running Tests
+## Running Tests
 To running the test program simply type in your terminal in the root project directory 
 ```
 $ cucumber
@@ -38,7 +38,8 @@ or
 $ bundle exec cucumber
 ```
 
-### Resources
+## Resources
+
 ##### [Sauce Labs Documentation](https://wiki.saucelabs.com/)
 
 ##### [Sauce Labs Sample Test Framework](https://github.com/saucelabs-sample-test-frameworks)
