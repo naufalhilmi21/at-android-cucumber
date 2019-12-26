@@ -27,6 +27,26 @@
 	```
 	$ bundle install
 	```
+	
+## Configuration
+Depending on device you are using, you can change the configuration to desired device in `features/support/env.rb`
+
+You might want to check your udid device in `adb`
+```
+$ adb devices
+```
+```  
+desiredCapabilities = {
+    caps: {
+      udid: '32009f174a8cc535',
+      platformName: 'Android',
+      plaformVersion: '9',
+      deviceName: 'Galaxy A7 (2018)',
+      ...........
+    }
+  }
+```
+
 
 ## Running Tests
 To running the test program simply type in your terminal in the root project directory 
